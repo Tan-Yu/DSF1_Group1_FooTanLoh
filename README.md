@@ -24,8 +24,10 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 Linear Regression
 
 ## Limitations Faced 
-~ Isolation Forest technique in detecting anomalies requires a good estimation of the contamination value to remove anomalies effectively. If 
+~ Isolation Forest technique in detecting anomalies requires a good estimation of the contamination value to remove anomalies effectively. 
+
 ~ Current world data on internet usage is limited - dataset contains too many NaN values for several countries, which may lead to over-estimation of the happiness index of the country.
+
 ~ Our problem definition is dependent on the number of recognised countries in the world. Certain datasets do not recognise certain countries eg. China may not recognise Hong Kong to be sovereign. Hence, there may be different variations of predicting the happiness score of certain countries.   
 
 ## Concluding Remarks
