@@ -1,9 +1,8 @@
 # Can we predict Happiness?
 contributed by 
-
-Foo Jin Rui - @jinruiiii (insert github profile link here)
-Tan Yu      - @Tan Yu    (insert github profile link here)
-Joel Loh    - @Jlorj     (insert github profile link here)
+~ Foo Jin Rui - @jinruiiii (insert github profile link here)
+~ Tan Yu      - @Tan Yu    (insert github profile link here)
+~ Joel Loh    - @Jlorj     (insert github profile link here)
 
 ## About
 Hi there! Welcome to our mini Data Science project for SC1015 (Introduction to Data Science and Artificial Intelligence)!
