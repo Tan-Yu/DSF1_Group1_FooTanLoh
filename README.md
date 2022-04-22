@@ -33,9 +33,9 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 
 
 ## Contributions
-Jin Rui - Isolation Forest, Data Extraction and Visualisation.
+Jin Rui - Isolation Forest, Data Extraction and Visualisation
 
-Tan Yu  - Data Cleaning and Refinement of Exploratory Data Analysis.
+Tan Yu  - Data Cleaning and Refinement of Exploratory Data Analysis
 
 Joel    - Evaluation of Machine Learning Model Results 
 
