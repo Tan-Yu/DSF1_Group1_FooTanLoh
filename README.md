@@ -16,9 +16,9 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 2. Internet Usage (insert link here)
 
 ## Problem Statement
-~ Based on a selection of factors, are we able to predict the happiness score of a particular country?
+ ~ Based on a selection of factors, are we able to predict the happiness score of a particular country?
 
-~ Which model is the best to predict happiness?
+ ~ Which model is the best to predict happiness?
 
 ## Models Used
 1. Linear Regression
