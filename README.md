@@ -12,8 +12,8 @@ Hi there! Welcome to our mini Data Science project for SC1015 (Introduction to D
 In this project, we will be exploring some of the factors that can be used to predict a happiness score. 
 Each of the following source codes contains the data cleaning, analyses, visualisations, and model predictions based on the factors that we have selected to investigate.
 
-1. [CO2 Emissions]  (https://github.com/Jlorj/SC1015_MiniProject/blob/main/HappinessAndInternet.ipynb)
-2. [Internet Usage] (https://github.com/Jlorj/SC1015_MiniProject/blob/main/HappinessAndCO2.ipynb)
+1. [CO2 Emissions](https://github.com/Jlorj/SC1015_MiniProject/blob/main/HappinessAndInternet.ipynb)
+2. [Internet Usage](https://github.com/Jlorj/SC1015_MiniProject/blob/main/HappinessAndCO2.ipynb)
 
 ## Problem Statement
 - Based on a selection of factors, are we able to predict a happiness score?
