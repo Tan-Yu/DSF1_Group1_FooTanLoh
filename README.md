@@ -1,7 +1,10 @@
 # Can we predict Happiness?
 contributed by 
+
 ~ Foo Jin Rui - @jinruiiii (insert github profile link here)
+
 ~ Tan Yu      - @Tan Yu    (insert github profile link here)
+
 ~ Joel Loh    - @Jlorj     (insert github profile link here)
 
 ## About
