@@ -41,10 +41,10 @@ Joel    - Evaluation of Machine Learning Model Results
 
 ## References
 
-- The World Bank. (n.d.) *Individuals using the Internet (% of population)*
+- The World Bank. (n.d.) *Individuals using the Internet (% of population).*
 
    https://data.worldbank.org/indicator/IT.NET.USER.ZS
-- Analytics Vidhya. (2021, July 26). *Anomaly detection using Isolation Forest – A Complete Guide*
+- Analytics Vidhya. (2021, July 26). *Anomaly detection using Isolation Forest – A Complete Guide.*
 
     https://www.analyticsvidhya.com/blog/2021/07/anomaly-detection-using-isolation-forest-a-complete-guide/
 - scikitlearn. (n.d.). *sklearn.ensemble.IsolationForest.* 
