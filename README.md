@@ -17,6 +17,7 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 
 ## Problem Statement
 ~ Based on a selection of factors, are we able to predict the happiness score of a particular country?
+
 ~ Which model is the best to predict happiness?
 
 ## Models Used
@@ -25,15 +26,17 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 
 ## Challenges Faced 
 ~ 
-~ 
+
 
 ## Concluding Remarks
 ~
-~
+
 
 ## Contributions
 Jin Rui - 
+
 Tan Yu  - Data Cleaning for CO2 emissions
+
 Joel    - 
 
 ## References
