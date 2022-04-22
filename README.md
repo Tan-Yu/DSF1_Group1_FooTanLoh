@@ -18,8 +18,6 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 ## Problem Statement
 - Based on a selection of factors, are we able to predict a happiness score?
 
-- Which model is the best to predict happiness?
-
 ## Model Used
 - Linear Regression
 
@@ -28,8 +26,9 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 
 - Current world data on internet usage is limited - dataset contains too many NaN values for several countries, which may lead to over-estimation of the happiness index of the country.
 
-
-## Concluding Remarks
+## Concluding Remarks and Learning Points
+- Utilised a new technique Isolation Forest to remove anomalies effectively from the dataset.
+- Made use of 
 - 
 
 
