@@ -21,7 +21,7 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 - Which model is the best to predict happiness?
 
 ## Model Used
-Linear Regression
+- Linear Regression
 
 ## Limitations Faced 
 - Isolation Forest technique in detecting anomalies requires a good estimation of the contamination value to remove anomalies effectively. 
