@@ -5,7 +5,7 @@ contributed by
 
 ~ Tan Yu      - @Tan Yu    (insert github profile link here)
 
-~ Joel Loh    - @Jlorj     (insert github profile link here)
+~ Joel Loh    - @Jlorj     (https://github.com/Jlorj)
 
 ## About
 Hi there! Welcome to our mini Data Science project for SC1015 (Introduction to Data Science and Artificial Intelligence)!
