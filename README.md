@@ -1,5 +1,5 @@
 # Can we predict Happiness?
-contributed by 
+Contributed by 
 
 - [@jinruiiii](https://github.com/jinruiiii)
 
