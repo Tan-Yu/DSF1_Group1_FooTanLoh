@@ -16,19 +16,19 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 2. Internet Usage (insert link here)
 
 ## Problem Statement
-~ Based on a selection of factors, are we able to predict the happiness score of a particular country?
+- Based on a selection of factors, are we able to predict the happiness score of a particular country?
 
-~ Which model is the best to predict happiness?
+- Which model is the best to predict happiness?
 
 ## Model Used
 Linear Regression
 
 ## Limitations Faced 
-~ Isolation Forest technique in detecting anomalies requires a good estimation of the contamination value to remove anomalies effectively. 
+- Isolation Forest technique in detecting anomalies requires a good estimation of the contamination value to remove anomalies effectively. 
 
-~ Current world data on internet usage is limited - dataset contains too many NaN values for several countries, which may lead to over-estimation of the happiness index of the country.
+- Current world data on internet usage is limited - dataset contains too many NaN values for several countries, which may lead to over-estimation of the happiness index of the country.
 
-~ Our problem definition is dependent on the number of recognised countries in the world. Certain datasets do not recognise certain countries eg. China may not recognise Hong Kong to be sovereign. Hence, there may be different variations of predicting the happiness score of certain countries.   
+- Our problem definition is dependent on the number of recognised countries in the world. Certain datasets do not recognise certain countries eg. China may not recognise Hong Kong to be sovereign. Hence, there may be different variations of predicting the happiness score of certain countries.   
 
 ## Concluding Remarks
 ~ 
