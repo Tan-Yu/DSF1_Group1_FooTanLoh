@@ -20,24 +20,24 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 
 ~ Which model is the best to predict happiness?
 
-## Models Used
-1. Linear Regression
-2. Isolation Forest 
+## Model Used
+Linear Regression
 
-## Challenges Faced 
+## Limitations Faced 
+~ Isolation Forest technique in detecting anomalies requires a good estimation of the contamination value to remove anomalies effectively. If 
+~ Current world data on internet usage is limited - dataset contains too many NaN values for several countries, which may lead to over-estimation of the happiness index of the country.
+~ Our problem definition is dependent on the number of recognised countries in the world. Certain datasets do not recognise certain countries eg. China may not recognise Hong Kong to be sovereign. Hence, there may be different variations of predicting the happiness score of certain countries.   
+
+## Concluding Remarks
 ~ 
 
 
-## Concluding Remarks
-~
-
-
 ## Contributions
-Jin Rui - 
+Jin Rui - Isolation Forest, Data Extraction and Visualisation.
 
-Tan Yu  - Data Cleaning for CO2 emissions
+Tan Yu  - Data Cleaning and Refinement of Exploratory Data Analysis.
 
-Joel    - 
+Joel    - Evaluation of Machine Learning Model Results 
 
 ## References
 
