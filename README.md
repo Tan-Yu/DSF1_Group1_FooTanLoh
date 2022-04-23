@@ -10,12 +10,13 @@ Contributed by
 ## About
 Hi there! Welcome to our mini Data Science project for SC1015 (Introduction to Data Science and Artificial Intelligence)!
 In this project, we will be exploring some of the factors that can be used to predict a happiness score. 
-Each of the following source codes contains the data cleaning, analyses, visualisations, and model predictions based on the factors that we have selected to investigate.
+Each of the following source codes contains the data cleaning, analyses, visualisations, and model predictions based on these 2 factors that we have selected to investigate.
 
 1. [CO2 Emissions Per Capita](https://github.com/Jlorj/SC1015_MiniProject/blob/main/HappinessAndInternet.ipynb)
 2. [Internet Users by Percentage](https://github.com/Jlorj/SC1015_MiniProject/blob/main/HappinessandCO2.ipynb)
 
 ## Problem Statement
+- Happiness in the world is in jeopardy.
 - Based on a selection of factors, are we able to predict a happiness score?
 
 ## Initial Hypothesis
@@ -32,10 +33,10 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 
 ## Concluding Remarks and Learning Points
 - Utilised a new technique Isolation Forest to remove anomalies effectively from the dataset.
-- Low CO2 emissions does not mean Happiness Levels are lower.
-- But higher Internet Usage brought higher levels of Happiness!
-- Internet Usage is a better predictor than CO2 emissions per capita.
-- CO2 emissions may not necessarily be a bad predictor.
+- The higher the CO2 emissions, the higher the Cantril Ladder Score (a.k.a. Happiness).
+- The higher the Internet Usage, the higher the Cantril Ladder Score (a.k.a. Happiness).
+- Internet Usage is a better predictor than CO2 emissions per capita in predicting the Cantril Ladder Score.
+- CO2 emissions may not necessarily be a bad predictor in predicting the Cantril Ladder Score.
 
 ## Contributions
 Jin Rui - Isolation Forest, Data Extraction and Visualisation
