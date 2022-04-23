@@ -18,6 +18,10 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 ## Problem Statement
 - Based on a selection of factors, are we able to predict a happiness score?
 
+## Initial Hypothesis
+- Lower levels will make people happier because the Climate Change is getting better!
+- High internet usage will make people happier as they have more access to entertainment and freedom of speech.
+
 ## Model Used
 - Linear Regression
 
@@ -28,9 +32,10 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 
 ## Concluding Remarks and Learning Points
 - Utilised a new technique Isolation Forest to remove anomalies effectively from the dataset.
-- 
-- 
-
+- Low CO2 emissions does not mean Happiness Levels are lower.
+- But higher Internet Usage brought higher levels of Happiness!
+- Internet Usage is a better predictor than CO2 emissions per capita.
+- CO2 emissions may not necessarily be a bad predictor.
 
 ## Contributions
 Jin Rui - Isolation Forest, Data Extraction and Visualisation
