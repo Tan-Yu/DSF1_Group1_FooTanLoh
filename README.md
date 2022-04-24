@@ -27,6 +27,8 @@ Each of the following source codes contains the data cleaning, analyses, visuali
 - Linear Regression
 
 ## Limitations Faced 
+- Initial dataset for Cantril Ladder was too small if we took 1 year's worth of data as only 166 countries partakes in the Cantrill Ladder poll every year. Instead, we combined data across 15 years to capture more data points.
+
 - Isolation Forest technique in detecting anomalies requires a good estimation of the contamination value to remove anomalies effectively. 
 
 - Current world data on internet usage is limited - dataset contains too many NaN values for several countries, which may lead to over-estimation of the happiness index of the country.
